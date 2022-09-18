@@ -1,14 +1,15 @@
 import { useParams } from "react-router-dom";
-import { useGetMetaQuery } from "../../store/api";
 import AudioPlayer from "react-audio-player";
 import LoadingSpinner from "../../components/LoadingSpinner";
+import translate from "../../translations/translate";
+import { useGetMetaQuranData } from "../../hooks/useQueryApi";
 
 type Props = {};
 
 export default function ReciterPage(props: Props) {
   const { reciterIdentifier } = useParams();
   const id = reciterIdentifier?.trim();
-  const { data: sourates, isLoading, isError } = useGetMetaQuery();
+  const { data: sourates, isLoading, isError } = useGetMetaQuranData();
 
   if (isLoading) {
     return (
@@ -21,20 +22,22 @@ export default function ReciterPage(props: Props) {
   if (isError) {
     return (
       <div className="flex justify-center items-center mt-8 pb-96">
-        <h1 className="text-red-500 text-xl">Network Issues.</h1>
+        <h1 className="text-red-500 text-xl">
+          {translate("app.network-issues")}
+        </h1>
       </div>
     );
   }
-  if (sourates?.data.surahs.references.length === 0) {
+  if (sourates?.surahs.references.length === 0) {
     return (
       <div className="flex justify-center items-center mt-8 pb-96">
-        <h1 className="text-white text-xl">Not found.</h1>
+        <h1 className="text-white text-xl">{translate("app.not-found")}</h1>
       </div>
     );
   }
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-4 p-20 bg-white dark:bg-[#1D2121]">
-      {sourates?.data.surahs.references.map((sourate) => (
+      {sourates?.surahs.references.map((sourate) => (
         <div
           key={sourate.number}
           className="flex shadow-xl h-[40px] items-center bg-white dark:bg-[#0e1111]"

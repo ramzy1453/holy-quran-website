@@ -5,6 +5,7 @@ export type TranslationMessage =
   | "app.search-label"
   | "app.search"
   | "app.network-issues"
+  | "app.not-found"
   | "sidebar.choose-language"
   | "sidebar.home"
   | "sidebar.reciters"

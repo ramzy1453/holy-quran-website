@@ -3,8 +3,9 @@ import { useParams } from "react-router-dom";
 import LoadingSpinner from "../components/LoadingSpinner";
 import Aya from "../components/Sourate/Aya";
 import Editions from "../components/Sourate/Editions";
-import { useGetSourateQuery } from "../store/api";
+import { useGetSourates } from "../hooks/useQueryApi";
 import { Ayah } from "../types/sourate";
+
 type Props = {};
 
 export default function Sourate(props: Props) {
@@ -12,15 +13,9 @@ export default function Sourate(props: Props) {
   const [edition, setEdition] = useState("/en.asad");
   const audio = new Audio();
 
-  const arabic = useGetSourateQuery({
-    sourateID: sourateID as string,
-    translation: "",
-  });
-  const translated = useGetSourateQuery({
-    sourateID: sourateID as string,
-    translation: edition,
-  });
-
+  const arabic = useGetSourates(sourateID as string, "");
+  const translated = useGetSourates(sourateID as string, "/" + edition);
+  console.log(arabic);
   const updateEdition = (e: ChangeEvent<HTMLSelectElement>) => {
     setEdition("/" + e.target.value);
   };
@@ -44,13 +39,13 @@ export default function Sourate(props: Props) {
     <div className="dark:bg-[#1D2121] dark:text-white bg-white text-black">
       <Editions updateEdition={updateEdition} />
       <ul className="p-0 md:px-24 md:py-8 xl:px-32 xl:py-8">
-        {arabic.data?.data.ayahs.map((aya, index) => (
+        {arabic.data?.ayahs.map((aya, index) => (
           <Aya
             key={aya.number}
             sourateID={sourateID}
             aya={aya}
-            translatedAya={translated.data?.data.ayahs[index] as Ayah}
-            isTranslatedLoading={translated.isFetching}
+            translatedAya={translated.data?.ayahs[index] as Ayah}
+            isTranslatedLoading={translated.isLoading}
             audio={audio}
           />
         ))}

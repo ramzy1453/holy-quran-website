@@ -2,6 +2,7 @@
   "app.holy-quran": "Noble Quran",
   "app.search-label": "What do you want to read?",
   "app.search": "Search",
+  "app.not-found": "Not found.",
   "app.network-issues": "Network Issues",
 
   "sidebar.choose-language": "Change the language",

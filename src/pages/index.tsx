@@ -2,7 +2,7 @@ import { ChangeEvent, useState } from "react";
 import SourateLists from "../components/Home/SourateLists";
 import SearchInput from "../components/SearchInput";
 import { useTheme } from "../hooks";
-import { useGetMetaQuery } from "../store/api";
+import { useGetMetaQuranData } from "../hooks/useQueryApi";
 import { SurahsReference } from "../types/quran";
 
 type Props = {};
@@ -13,9 +13,9 @@ export default function Home(props: Props) {
   const updateSearch = (e: ChangeEvent<HTMLInputElement>) => {
     setSearch(e.target.value);
   };
-  const { data: QuranMetaData, isLoading, isError } = useGetMetaQuery();
-  const filtredMetaData = QuranMetaData?.data.surahs.references.filter(
-    (surah) => surah.englishName.toLowerCase().includes(search.toLowerCase())
+  const { data: QuranMetaData, isLoading, isError } = useGetMetaQuranData();
+  const filtredMetaData = QuranMetaData?.surahs.references.filter((surah) =>
+    surah.englishName.toLowerCase().includes(search.toLowerCase())
   );
   return (
     <div className=" px-8 md:px-12 xl:px-32 dark:bg-[#1D2121] bg-white">

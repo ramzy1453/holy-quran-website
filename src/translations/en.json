@@ -1,0 +1,25 @@
+{
+  "app.holy-quran": "Noble Quran",
+  "app.search-label": "What do you want to read?",
+  "app.search": "Search",
+  "app.network-issues": "Network Issues",
+
+  "sidebar.choose-language": "Change the language",
+  "sidebar.home": "Home",
+  "sidebar.reciters": "Reciters",
+  "sidebar.about": "About",
+  "sidebar.feedback": "Feedback",
+
+  "sourate.edition-label": "Choose Edition",
+  "footer.title": "The Noble Quran",
+  "footer.description": "Read, study, and learn The Noble Quran. Quran.com is a Sadaqah Jariyah.",
+  "footer.paragraph": "We hope to make it easy for everyone to read, study, and learn The Noble Quran. The Noble Quran has many names including Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al-Maw'itha, Al-Thikr, and Al-Noor.",
+  "footer.contact-us": "Contact Us",
+  "footer.your-name": "Your name",
+  "footer.email": "Email",
+  "footer.your-message": "Your message",
+  "footer.send-message": "SEND A MESSAGE",
+
+  "feedback.give-feedback": "Give your feedback",
+  "feedback.send": "Send"
+}

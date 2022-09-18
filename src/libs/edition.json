@@ -1,0 +1,1320 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "identifier": "ar.muyassar",
+      "language": "ar",
+      "name": "\u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0645\u06cc\u0633\u0631",
+      "englishName": "King Fahad Quran Complex",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "az.mammadaliyev",
+      "language": "az",
+      "name": "M\u0259mm\u0259d\u0259liyev & B\u00fcnyadov",
+      "englishName": "Vasim Mammadaliyev and Ziya Bunyadov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "az.musayev",
+      "language": "az",
+      "name": "Musayev",
+      "englishName": "Alikhan Musayev",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "bn.bengali",
+      "language": "bn",
+      "name": "\u09ae\u09c1\u09b9\u09bf\u0989\u09a6\u09cd\u09a6\u09c0\u09a8 \u0996\u09be\u09a8",
+      "englishName": "Muhiuddin Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "cs.hrbek",
+      "language": "cs",
+      "name": "Hrbek",
+      "englishName": "Preklad I. Hrbek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "cs.nykl",
+      "language": "cs",
+      "name": "Nykl",
+      "englishName": "A. R. Nykl",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "de.aburida",
+      "language": "de",
+      "name": "Abu Rida",
+      "englishName": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "de.bubenheim",
+      "language": "de",
+      "name": "Bubenheim & Elyas",
+      "englishName": "A. S. F. Bubenheim and N. Elyas",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "de.khoury",
+      "language": "de",
+      "name": "Khoury",
+      "englishName": "Adel Theodor Khoury",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "de.zaidan",
+      "language": "de",
+      "name": "Zaidan",
+      "englishName": "Amir Zaidan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "dv.divehi",
+      "language": "dv",
+      "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8",
+      "englishName": "Office of the President of Maldives",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "en.ahmedali",
+      "language": "en",
+      "name": "Ahmed Ali",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.ahmedraza",
+      "language": "en",
+      "name": "Ahmed Raza Khan",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.arberry",
+      "language": "en",
+      "name": "Arberry",
+      "englishName": "A. J. Arberry",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.asad",
+      "language": "en",
+      "name": "Asad",
+      "englishName": "Muhammad Asad",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.daryabadi",
+      "language": "en",
+      "name": "Daryabadi",
+      "englishName": "Abdul Majid Daryabadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.hilali",
+      "language": "en",
+      "name": "Hilali & Khan",
+      "englishName": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.pickthall",
+      "language": "en",
+      "name": "Pickthall",
+      "englishName": "Mohammed Marmaduke William Pickthall",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.qaribullah",
+      "language": "en",
+      "name": "Qaribullah & Darwish",
+      "englishName": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.sahih",
+      "language": "en",
+      "name": "Saheeh International",
+      "englishName": "Saheeh International",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.sarwar",
+      "language": "en",
+      "name": "Sarwar",
+      "englishName": "Muhammad Sarwar",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.yusufali",
+      "language": "en",
+      "name": "Yusuf Ali",
+      "englishName": "Abdullah Yusuf Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "fa.ayati",
+      "language": "fa",
+      "name": "\u0622\u06cc\u062a\u06cc",
+      "englishName": "AbdolMohammad Ayati",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fa.fooladvand",
+      "language": "fa",
+      "name": "\u0641\u0648\u0644\u0627\u062f\u0648\u0646\u062f",
+      "englishName": "Mohammad Mahdi Fooladvand",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fa.ghomshei",
+      "language": "fa",
+      "name": "\u0627\u0644\u0647\u06cc \u0642\u0645\u0634\u0647\u200c\u0627\u06cc",
+      "englishName": "Mahdi Elahi Ghomshei",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fa.makarem",
+      "language": "fa",
+      "name": "\u0645\u06a9\u0627\u0631\u0645 \u0634\u06cc\u0631\u0627\u0632\u06cc",
+      "englishName": "Naser Makarem Shirazi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fr.hamidullah",
+      "language": "fr",
+      "name": "Hamidullah",
+      "englishName": "Muhammad Hamidullah",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ha.gumi",
+      "language": "ha",
+      "name": "Gumi",
+      "englishName": "Abubakar Mahmoud Gumi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "hi.hindi",
+      "language": "hi",
+      "name": "\u095e\u093e\u0930\u0942\u0958 \u0959\u093e\u0928 & \u0928\u0926\u0935\u0940",
+      "englishName": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "id.indonesian",
+      "language": "id",
+      "name": "Bahasa Indonesia",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "it.piccardo",
+      "language": "it",
+      "name": "Piccardo",
+      "englishName": "Hamza Roberto Piccardo",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ja.japanese",
+      "language": "ja",
+      "name": "Japanese",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ko.korean",
+      "language": "ko",
+      "name": "Korean",
+      "englishName": "Unknown",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ku.asan",
+      "language": "ku",
+      "name": "\u062a\u0647\u200c\u0641\u0633\u06cc\u0631\u06cc \u0626\u0627\u0633\u0627\u0646",
+      "englishName": "Burhan Muhammad-Amin",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ml.abdulhameed",
+      "language": "ml",
+      "name": "\u0d05\u0d2c\u0d4d\u0d26\u0d41\u0d32\u0d4d\u200d \u0d39\u0d2e\u0d40\u0d26\u0d4d & \u0d2a\u0d31\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d",
+      "englishName": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "nl.keyzer",
+      "language": "nl",
+      "name": "Keyzer",
+      "englishName": "Salomo Keyzer",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "no.berg",
+      "language": "no",
+      "name": "Einar Berg",
+      "englishName": "Einar Berg",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "pl.bielawskiego",
+      "language": "pl",
+      "name": "Bielawskiego",
+      "englishName": "J\u00f3zefa Bielawskiego",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "pt.elhayek",
+      "language": "pt",
+      "name": "El-Hayek",
+      "englishName": "Samir El-Hayek",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ro.grigore",
+      "language": "ro",
+      "name": "Grigore",
+      "englishName": "George Grigore",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.kuliev",
+      "language": "ru",
+      "name": "\u041a\u0443\u043b\u0438\u0435\u0432",
+      "englishName": "Elmir Kuliev",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.osmanov",
+      "language": "ru",
+      "name": "\u041e\u0441\u043c\u0430\u043d\u043e\u0432",
+      "englishName": "Magomed-Nuri Osmanovich Osmanov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.porokhova",
+      "language": "ru",
+      "name": "\u041f\u043e\u0440\u043e\u0445\u043e\u0432\u0430",
+      "englishName": "V. Porokhova",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sd.amroti",
+      "language": "sd",
+      "name": "\u0627\u0645\u0631\u0648\u067d\u064a",
+      "englishName": "Taj Mehmood Amroti",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "so.abduh",
+      "language": "so",
+      "name": "Abduh",
+      "englishName": "Mahmud Muhammad Abduh",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sq.ahmeti",
+      "language": "sq",
+      "name": "Sherif Ahmeti",
+      "englishName": "Sherif Ahmeti",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sq.mehdiu",
+      "language": "sq",
+      "name": "Feti Mehdiu",
+      "englishName": "Feti Mehdiu",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sq.nahi",
+      "language": "sq",
+      "name": "Efendi Nahi",
+      "englishName": "Hasan Efendi Nahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sv.bernstrom",
+      "language": "sv",
+      "name": "Bernstr\u00f6m",
+      "englishName": "Knut Bernstr\u00f6m",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "sw.barwani",
+      "language": "sw",
+      "name": "Al-Barwani",
+      "englishName": "Ali Muhsin Al-Barwani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ta.tamil",
+      "language": "ta",
+      "name": "\u0b9c\u0bbe\u0ba9\u0bcd \u0b9f\u0bbf\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd",
+      "englishName": "Jan Turst Foundation",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tg.ayati",
+      "language": "tg",
+      "name": "\u041e\u044f\u0442\u04e3",
+      "englishName": "AbdolMohammad Ayati",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "th.thai",
+      "language": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+      "englishName": "King Fahad Quran Complex",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.ates",
+      "language": "tr",
+      "name": "S\u00fcleyman Ate\u015f",
+      "englishName": "Suleyman Ates",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "name": "Al\u0130 Bula\u00e7",
+      "englishName": "Al\u0130 Bula\u00e7",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.diyanet",
+      "language": "tr",
+      "name": "Diyanet \u0130\u015fleri",
+      "englishName": "Diyanet Isleri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.golpinarli",
+      "language": "tr",
+      "name": "Abdulbak\u00ee G\u00f6lp\u0131narl\u0131",
+      "englishName": "Abdulbaki Golpinarli",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.ozturk",
+      "language": "tr",
+      "name": "\u00d6zt\u00fcrk",
+      "englishName": "Yasar Nuri Ozturk",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.transliteration",
+      "language": "tr",
+      "name": "\u00c7eviriyaz\u0131",
+      "englishName": "Muhammet Abay",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.vakfi",
+      "language": "tr",
+      "name": "Diyanet Vakf\u0131",
+      "englishName": "Diyanet Vakfi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.yazir",
+      "language": "tr",
+      "name": "Elmal\u0131l\u0131 Hamdi Yaz\u0131r",
+      "englishName": "Elmalili Hamdi Yazir",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.yildirim",
+      "language": "tr",
+      "name": "Suat Y\u0131ld\u0131r\u0131m",
+      "englishName": "Suat Yildirim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tr.yuksel",
+      "language": "tr",
+      "name": "Edip Y\u00fcksel",
+      "englishName": "Edip Y\u00fcksel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "tt.nugman",
+      "language": "tt",
+      "name": "Yakub Ibn Nugman",
+      "englishName": "Yakub Ibn Nugman",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ug.saleh",
+      "language": "ug",
+      "name": "\u0645\u062d\u0645\u062f \u0635\u0627\u0644\u062d",
+      "englishName": "Muhammad Saleh",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.ahmedali",
+      "language": "ur",
+      "name": "\u0627\u062d\u0645\u062f \u0639\u0644\u06cc",
+      "englishName": "Ahmed Ali",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.jalandhry",
+      "language": "ur",
+      "name": "\u062c\u0627\u0644\u0646\u062f\u06c1\u0631\u06cc",
+      "englishName": "Fateh Muhammad Jalandhry",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.jawadi",
+      "language": "ur",
+      "name": "\u0639\u0644\u0627\u0645\u06c1 \u062c\u0648\u0627\u062f\u06cc",
+      "englishName": "Syed Zeeshan Haider Jawadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.kanzuliman",
+      "language": "ur",
+      "name": "\u0627\u062d\u0645\u062f \u0631\u0636\u0627 \u062e\u0627\u0646",
+      "englishName": "Ahmed Raza Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.qadri",
+      "language": "ur",
+      "name": "\u0637\u0627\u06c1\u0631 \u0627\u0644\u0642\u0627\u062f\u0631\u06cc",
+      "englishName": "Tahir ul Qadri",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "uz.sodik",
+      "language": "uz",
+      "name": "\u041c\u0443\u0445\u0430\u043c\u043c\u0430\u0434 \u0421\u043e\u0434\u0438\u043a",
+      "englishName": "Muhammad Sodik Muhammad Yusuf",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.maududi",
+      "language": "en",
+      "name": "Maududi",
+      "englishName": "Abul Ala Maududi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.shakir",
+      "language": "en",
+      "name": "Shakir",
+      "englishName": "Mohammad Habib Shakir",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "en.transliteration",
+      "language": "en",
+      "name": "Transliteration",
+      "englishName": "English Transliteration",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "es.cortes",
+      "language": "es",
+      "name": "Cortes",
+      "englishName": "Julio Cortes",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "fa.ansarian",
+      "language": "fa",
+      "name": "\u0627\u0646\u0635\u0627\u0631\u06cc\u0627\u0646",
+      "englishName": "Hussain Ansarian",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-simple",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u0628\u0633\u0637 (\u062a\u0634\u0643\u064a\u0644 \u0628\u0633\u064a\u0637)",
+      "englishName": "Simple",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-simple-clean",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u0628\u0633\u0637 (\u0628\u062f\u0648\u0646 \u062a\u0634\u0643\u064a\u0644)",
+      "englishName": "Simple Clean",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-simple-enhanced",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u0628\u0633\u0637 (\u0628\u062f\u0648\u0646 \u062a\u0634\u0643\u064a\u0644)",
+      "englishName": "Simple Enhanced",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-simple-min",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u0628\u0633\u0637 (\u0628\u062f\u0648\u0646 \u062a\u0634\u0643\u064a\u0644)",
+      "englishName": "Simple Minimal",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-uthmani-min",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0628\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a (\u062a\u0634\u0643\u064a\u0644 \u0628\u0633\u064a\u0637)",
+      "englishName": "Uthmani Minimal",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-uthmani",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0628\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a",
+      "englishName": "Uthmani",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "bg.theophanov",
+      "language": "bg",
+      "name": "\u0422\u0435\u043e\u0444\u0430\u043d\u043e\u0432",
+      "englishName": "Tzvetan Theophanov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "bs.mlivo",
+      "language": "bs",
+      "name": "Mlivo",
+      "englishName": "Mustafa Mlivo",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "fa.bahrampour",
+      "language": "fa",
+      "name": "\u0628\u0647\u0631\u0627\u0645 \u067e\u0648\u0631",
+      "englishName": "Abolfazl Bahrampour",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "es.asad",
+      "language": "es",
+      "name": "Asad",
+      "englishName": "Muhammad Asad - Abdurrasak P\u00e9rez",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "fa.khorramshahi",
+      "language": "fa",
+      "name": "\u062e\u0631\u0645\u0634\u0627\u0647\u06cc",
+      "englishName": "Baha'oddin Khorramshahi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fa.mojtabavi",
+      "language": "fa",
+      "name": "\u0645\u062c\u062a\u0628\u0648\u06cc",
+      "englishName": "Sayyed Jalaloddin Mojtabavi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "hi.farooq",
+      "language": "hi",
+      "name": "\u095e\u093e\u0930\u0942\u0958 \u0959\u093e\u0928 & \u0905\u0939\u092e\u0926",
+      "englishName": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "id.muntakhab",
+      "language": "id",
+      "name": "Quraish Shihab",
+      "englishName": "Muhammad Quraish Shihab et al.",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ms.basmeih",
+      "language": "ms",
+      "name": "Basmeih",
+      "englishName": "Abdullah Muhammad Basmeih",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.abuadel",
+      "language": "ru",
+      "name": "\u0410\u0431\u0443 \u0410\u0434\u0435\u043b\u044c",
+      "englishName": "Abu Adel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.krachkovsky",
+      "language": "ru",
+      "name": "\u041a\u0440\u0430\u0447\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+      "englishName": "Ignaty Yulianovich Krachkovsky",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.muntahab",
+      "language": "ru",
+      "name": "\u0410\u043b\u044c-\u041c\u0443\u043d\u0442\u0430\u0445\u0430\u0431",
+      "englishName": "Ministry of Awqaf, Egypt",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.sablukov",
+      "language": "ru",
+      "name": "\u0421\u0430\u0431\u043b\u0443\u043a\u043e\u0432",
+      "englishName": "Gordy Semyonovich Sablukov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ur.junagarhi",
+      "language": "ur",
+      "name": "\u0645\u062d\u0645\u062f \u062c\u0648\u0646\u0627\u06af\u0691\u06be\u06cc",
+      "englishName": "Muhammad Junagarhi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ur.maududi",
+      "language": "ur",
+      "name": "\u0627\u0628\u0648\u0627\u0644\u0627\u0639\u0644\u06cc \u0645\u0648\u062f\u0648\u062f\u06cc",
+      "englishName": "Abul A'ala Maududi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "zh.jian",
+      "language": "zh",
+      "name": "Ma Jian",
+      "englishName": "Ma Jian",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "zh.majian",
+      "language": "zh",
+      "name": "Ma Jian (Traditional)",
+      "englishName": "Ma Jian",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "fa.khorramdel",
+      "language": "fa",
+      "name": "\u062e\u0631\u0645\u062f\u0644",
+      "englishName": "Mostafa Khorramdel",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fa.moezzi",
+      "language": "fa",
+      "name": "\u0645\u0639\u0632\u06cc",
+      "englishName": "Mohammad Kazem Moezzi",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "bs.korkut",
+      "language": "bs",
+      "name": "Korkut",
+      "englishName": "Besim Korkut",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ar.jalalayn",
+      "language": "ar",
+      "name": "\u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u062c\u0644\u0627\u0644\u064a\u0646",
+      "englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-tajweed",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0627\u0644\u0645\u062c\u0648\u062f (\u0645\u0644\u0648\u0646)",
+      "englishName": "Tajweed",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-wordbyword",
+      "language": "ar",
+      "name": "\u0645\u0639\u0627\u0646\u064a \u0645\u0641\u0631\u062f\u0627\u062a \u0627\u0644\u0642\u0631\u0622\u0646",
+      "englishName": "Word By Word",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ar.abdulbasitmurattal",
+      "language": "ar",
+      "name": "\u0639\u0628\u062f \u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f \u0627\u0644\u0635\u0645\u062f \u0627\u0644\u0645\u0631\u062a\u0644",
+      "englishName": "Abdul Basit",
+      "format": "audio",
+      "type": "translation",
+      "direction": null
+    },
+    {
+      "identifier": "ar.abdullahbasfar",
+      "language": "ar",
+      "name": "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0628\u0635\u0641\u0631",
+      "englishName": "Abdullah Basfar",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.abdurrahmaansudais",
+      "language": "ar",
+      "name": "\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0633\u062f\u064a\u0633",
+      "englishName": "Abdurrahmaan As-Sudais",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.abdulsamad",
+      "language": "ar",
+      "name": "\u0639\u0628\u062f\u0627\u0644\u0628\u0627\u0633\u0637 \u0639\u0628\u062f\u0627\u0644\u0635\u0645\u062f",
+      "englishName": "Abdul Samad",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.shaatree",
+      "language": "ar",
+      "name": "\u0623\u0628\u0648 \u0628\u0643\u0631 \u0627\u0644\u0634\u0627\u0637\u0631\u064a",
+      "englishName": "Abu Bakr Ash-Shaatree",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.ahmedajamy",
+      "language": "ar",
+      "name": "\u0623\u062d\u0645\u062f \u0628\u0646 \u0639\u0644\u064a \u0627\u0644\u0639\u062c\u0645\u064a",
+      "englishName": "Ahmed ibn Ali al-Ajamy",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.alafasy",
+      "language": "ar",
+      "name": "\u0645\u0634\u0627\u0631\u064a \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
+      "englishName": "Alafasy",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.hanirifai",
+      "language": "ar",
+      "name": "\u0647\u0627\u0646\u064a \u0627\u0644\u0631\u0641\u0627\u0639\u064a",
+      "englishName": "Hani Rifai",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.husary",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u0648\u062f \u062e\u0644\u064a\u0644 \u0627\u0644\u062d\u0635\u0631\u064a",
+      "englishName": "Husary",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.husarymujawwad",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u0648\u062f \u062e\u0644\u064a\u0644 \u0627\u0644\u062d\u0635\u0631\u064a (\u0627\u0644\u0645\u062c\u0648\u062f)",
+      "englishName": "Husary (Mujawwad)",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.hudhaify",
+      "language": "ar",
+      "name": "\u0639\u0644\u064a \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062d\u0630\u064a\u0641\u064a",
+      "englishName": "Hudhaify",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.ibrahimakhbar",
+      "language": "ar",
+      "name": "\u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0623\u062e\u0636\u0631",
+      "englishName": "Ibrahim Akhdar",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.mahermuaiqly",
+      "language": "ar",
+      "name": "\u0645\u0627\u0647\u0631 \u0627\u0644\u0645\u0639\u064a\u0642\u0644\u064a",
+      "englishName": "Maher Al Muaiqly",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.minshawi",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u0635\u062f\u064a\u0642 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a",
+      "englishName": "Minshawi",
+      "format": "audio",
+      "type": "translation",
+      "direction": null
+    },
+    {
+      "identifier": "ar.minshawimujawwad",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u0635\u062f\u064a\u0642 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a (\u0627\u0644\u0645\u062c\u0648\u062f)",
+      "englishName": "Minshawy (Mujawwad)",
+      "format": "audio",
+      "type": "translation",
+      "direction": null
+    },
+    {
+      "identifier": "ar.muhammadayyoub",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u0623\u064a\u0648\u0628",
+      "englishName": "Muhammad Ayyoub",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.muhammadjibreel",
+      "language": "ar",
+      "name": "\u0645\u062d\u0645\u062f \u062c\u0628\u0631\u064a\u0644",
+      "englishName": "Muhammad Jibreel",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ar.saoodshuraym",
+      "language": "ar",
+      "name": "\u0633\u0639\u0648\u062f \u0627\u0644\u0634\u0631\u064a\u0645",
+      "englishName": "Saood bin Ibraaheem Ash-Shuraym",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "en.walk",
+      "language": "en",
+      "name": "Ibrahim Walk",
+      "englishName": "Ibrahim Walk",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "fa.hedayatfarfooladvand",
+      "language": "fa",
+      "name": "Fooladvand - Hedayatfar",
+      "englishName": "Fooladvand - Hedayatfar",
+      "format": "audio",
+      "type": "translation",
+      "direction": null
+    },
+    {
+      "identifier": "ar.parhizgar",
+      "language": "ar",
+      "name": "\u0634\u0647\u0631\u06cc\u0627\u0631 \u067e\u0631\u0647\u06cc\u0632\u06af\u0627\u0631",
+      "englishName": "Parhizgar",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "ur.khan",
+      "language": "ur",
+      "name": "Shamshad Ali Khan",
+      "englishName": "Shamshad Ali Khan",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "zh.chinese",
+      "language": "zh",
+      "name": "\u4e2d\u6587",
+      "englishName": "Chinese",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "fr.leclerc",
+      "language": "fr",
+      "name": "Youssouf Leclerc",
+      "englishName": "Youssouf Leclerc",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "quran-kids",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+      "englishName": "Kids",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-corpus-qd",
+      "language": "ar",
+      "name": "Corpus",
+      "englishName": "Corpus",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "si.naseemismail",
+      "language": "si",
+      "name": "Naseem Ismail",
+      "englishName": "Naseem Isamil and Masoor Maulana, Kaleel",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "zh.mazhonggang",
+      "language": "zh",
+      "name": "Ma Zhong Gang",
+      "englishName": "\u9a6c\u4ef2\u521a",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ar.aymanswoaid",
+      "language": "ar",
+      "name": "\u0623\u064a\u0645\u0646 \u0633\u0648\u064a\u062f",
+      "englishName": "Ayman Sowaid",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "\u0645\u0639\u0627\u0646\u064a \u0645\u0641\u0631\u062f\u0627\u062a \u0627\u0644\u0642\u0631\u0622\u0646 \u0648\u0644\u0641\u0638\u0647\u0627",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-unicode",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0628\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a",
+      "englishName": "Unicode Quran text from Khaled Hosny",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0628\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (zna\u010denja) na bosanski jezik, utemeljen na Ibn Kesirovom tuma\u010denju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ru.kuliev-audio",
+      "language": "ru",
+      "name": "Elmir Kuliev by 1MuslimApp",
+      "englishName": "Elmir Kuliev by 1MuslimApp",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    },
+    {
+      "identifier": "en.itani",
+      "language": "en",
+      "name": "Clear Qur'an - Talal Itani",
+      "englishName": "Clear Qur'an by Talal Itani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "ar.waseet",
+      "language": "ar",
+      "name": "\u0627\u0644\u0640\u062a\u0640\u0641\u0640\u0633\u0640\u064a\u0640\u0631 \u0627\u0644\u0640\u0648\u0633\u0640\u064a\u0640\u0637",
+      "englishName": "Tafsir Al Waseet",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ar.baghawi",
+      "language": "ar",
+      "name": "\u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0628\u063a\u0648\u064a\u200e",
+      "englishName": "Tafsir Al Baghawi",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ar.miqbas",
+      "language": "ar",
+      "name": "\u062a\u0646\u0648\u064a\u0631 \u0627\u0644\u0645\u0642\u0628\u0627\u0633 \u0645\u0646 \u062a\u0641\u0633\u064a\u0631 \u0628\u0646 \u0639\u0628\u0627\u0633",
+      "englishName": "Tafsir Tanwir al-Miqbas",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "ar.qurtubi",
+      "language": "ar",
+      "name": "\u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0642\u0631\u0637\u0628\u064a",
+      "englishName": "Tafsir Al Qurtubi",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  ]
+}

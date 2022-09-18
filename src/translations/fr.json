@@ -1,0 +1,25 @@
+{
+  "app.holy-quran": "Saint Coran",
+  "app.search-label": "Que voulez vous lire?",
+  "app.search": "Recherche",
+  "app.network-issues": "Problems de connexion",
+
+  "sidebar.choose-language": "Changer la langue",
+  "sidebar.home": "Accueil",
+  "sidebar.reciters": "Recitateurs",
+  "sidebar.about": "À propos",
+  "sidebar.feedback": "Avis",
+
+  "sourate.edition-label": "Choisir L'édition",
+  "footer.title": "Le Saint Coran",
+  "footer.description": "Lisez, étudiez et apprenez Le Noble Coran. Quran.com est une Sadaqah Jariyah.",
+  "footer.paragraph": "Nous espérons faciliter la lecture, l'étude et l'apprentissage du Noble Coran pour tous. Le Noble Coran porte de nombreux noms, notamment Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al- Maw'itha, Al-Thikr et Al-Noor.",
+  "footer.contact-us": "Contactez nous",
+  "footer.your-name": "Votre nom",
+  "footer.email": "Email",
+  "footer.your-message": "votre message",
+  "footer.send-message": "ENVOYEZ UN MESSAGE",
+
+  "feedback.give-feedback": "Donner votre avis",
+  "feedback.send": "Envoyez"
+}

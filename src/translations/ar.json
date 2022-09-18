@@ -1,0 +1,25 @@
+{
+  "app.holy-quran": "القرآن الكريم",
+  "app.search-label": "ماذا تريد أن تقرأ؟",
+  "app.search": "إبحث",
+  "app.network-issues": "مشكلة اتصال",
+
+  "sidebar.choose-language": "تغيير اللغة",
+  "sidebar.home": "الصفحة الرئيسية",
+  "sidebar.reciters": "القراء",
+  "sidebar.about": "من نحن",
+  "sidebar.feedback": "آرائكم",
+
+  "sourate.edition-label": "الإصدار",
+  "footer.title": "القرآن الكريم",
+  "footer.description": "اقرأ وادرس وتعلم القرآن الكريم. القرآن الكريم هو صدقة جارية.",
+  "footer.paragraph": " نتمنى أن نسهل على الجميع قراءة القرآن الكريم ودراسته وتعلمه ، وله مسميات عديدة من القرآن الكريم ، والكتاب ، والفرقان ، والقرآن الكريم. مويثة والذكر والنور.",
+  "footer.contact-us": "اتصل بنا",
+  "footer.your-name": "إسمك",
+  "footer.email": "بريدك الإلكتروني",
+  "footer.your-message": "رسالتك",
+  "footer.send-message": "رسالتك",
+
+  "feedback.give-feedback": "قدم ملاحظاتك",
+  "feedback.send": "إرسال"
+}
